@@ -1,6 +1,5 @@
-*CNV DETECTION: EVALUATION OF A MACHINE LEARNING MODEL ACROSS NGS DATA
+## CNV DETECTION: EVALUATION OF A MACHINE LEARNING MODEL ACROSS NGS DATA
 
-Copy number variants are structural variations larger than 50 bp that play a very important role in susceptibility or resistance to vital and complex diseases such as cancers, obesity and important psychiatric disorders. Although its clinical importance, its detection by laboratory methods is still very expensive, time consuming and many of them have gene-specific limitations. That is why in recent years NGS data is being used to detect these mutations in three different levels: WGS, WES and TS. And although TS has become an important routine technique in clinical settings, its limitations make that many CNV detection tools are still primarily developed and optimized for whole-genome sequencing (WGS) data.
 
 This project evaluates the generalizability and robustness of a machine learning model developed for the detection of CNVs in TS data, originally trained with artificially balanced datasets. Although the original model had good results with a f1-score and accuracy > 0.9, in this study it is demonstrated that this performance does not generalize to other datasets generated with different probe designs and sequencing strategies. To address these limitations, the model was reconstructed and further evaluated using domain adaptation strategies, such as fine-tuning and kernel mean matching, aiming at improving its ability to generalize across different sequencing conditions.
 
