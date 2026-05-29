@@ -1,7 +1,9 @@
-Tras ver que me erea imposbile acceder al codigo original del modelo el cual se basa el proyecto. Se decidió rehacerlo desde 0 para comprobar su trazabilidad e intentar mejorar sus resutados. 
+##New Model
 
-Aqeuí tenemos los resultados de los diferents tests que fuí haciendo con el objetivo de mejorar la performance con datos reales.
+After realizing that I couldn’t access the original model code on which the project is based, I decided to rebuild it from scratch to verify its traceability and try to improve its results. 
 
-Lo que mejor da:
-Reentrenar el modelo por cada tecnología.
-Fine-tuning a la sample con Decon.
+Here are the results of the various tests I conducted with the goal of improving performance using real data.
+
+What works best:
+Retraining the model for each technology.
+Fine-tuning the sample with Decon.
