@@ -1,0 +1,1 @@
+Results of the inference in DeVCopy model with the data annotated by laboratory validated CNVs
