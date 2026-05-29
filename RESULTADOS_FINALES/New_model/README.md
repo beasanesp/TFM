@@ -1,4 +1,4 @@
-##New Model
+## New Model
 
 After realizing that I couldn’t access the original model code on which the project is based, I decided to rebuild it from scratch to verify its traceability and try to improve its results. 
 
